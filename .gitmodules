@@ -1,0 +1,3 @@
+[submodule "EV19_RISCV/Drivers"]
+	path = EV19_RISCV/Drivers
+	url = https://github.com/EV19-RISC-V/Drivers
